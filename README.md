@@ -1,12 +1,12 @@
 # opalrb-loader
 
-[![Join the chat at https://gitter.im/cj/opal-webpack](https://badges.gitter.im/cj/opal-webpack.svg)](https://gitter.im/cj/opal-webpack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Opal is a compiler for writing JavaScript in Ruby.
 
 This package allows transpiling Ruby files using [Opal](http://opalrb.org) and [webpack](https://github.com/webpack/webpack).
 
 Check out [this blog post](https://medium.com/@zetachang/from-sprockets-to-webpack-5f3d1afbd1b0) if you are interested in the project background.
 
+[![Join the chat at https://gitter.im/cj/opal-webpack](https://badges.gitter.im/cj/opal-webpack.svg)](https://gitter.im/cj/opal-webpack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://img.shields.io/npm/v/opal-webpack.svg?style=flat-square)](https://www.npmjs.com/package/opal-webpack)
 [![npm downloads](https://img.shields.io/npm/dt/opal-webpack.svg?style=flat-square)](https://www.npmjs.com/package/opal-webpack)
 [![Circle CI](https://circleci.com/gh/cj/opal-webpack.svg?style=svg)](https://circleci.com/gh/cj/opal-webpack)
